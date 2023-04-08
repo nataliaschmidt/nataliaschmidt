@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center;">
 <img alt="cat with computer" src="https://i.ibb.co/GdyRwB3/20230408-085456-0001.png" height="200" width="200">
   
-<h1 style="color:#dd809f">Hi! My name's Natália Schmidt ✌️</h1>
+<h1 style="color:#dd809f">Hi! My name's Natalia Schmidt ✌️</h1>
 </div>
 
 ### I'm Brazilian and a web development student, currently enrolled in Trybe. 🚀
